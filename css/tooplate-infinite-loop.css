@@ -146,7 +146,7 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  background-image: url(../img/carlos-neutro.jpg);
+  background-image: url(../img/marcos-cara.jpg);
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -670,7 +670,7 @@ p {
 }
 
 .bgimagen1{
-  background-image: url(../img/carlos-trepa.jpg);
+  background-image: url(../img/marcos-abajo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -679,7 +679,7 @@ p {
 }
 
 .bgimagen2{
-  background-image: url(../img/carlos-hero.jpg);
+  background-image: url(../img/marcos-cool.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
